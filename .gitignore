@@ -1,0 +1,7 @@
+build/
+dist/
+eggs/
+statswriter.egg-info
+.tox
+*.pyc
+tests/__pycache__/
